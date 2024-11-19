@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ya-h-ya
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Cyber security 
 - 🌱 I’m currently learning Software Engineering
 
 <!---
