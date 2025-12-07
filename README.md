@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ya-h-ya
 - 👀 I’m interested in Cyber security 
-- 🌱 I’m currently learning Software Engineering
+
 
 <!---
 Ya-h-ya/Ya-h-ya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
