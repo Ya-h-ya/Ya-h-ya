@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ya-h-ya
-- 👀 I’m interested in Cyber security + network engineering
+- 👀 I’m interested in network engineering
 
 
 <!---
