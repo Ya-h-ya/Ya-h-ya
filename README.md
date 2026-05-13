@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ya-h-ya
 - 👀 I’m interested in network engineering
-
+- 🌐 Studying for the CCNA
 
 <!---
 Ya-h-ya/Ya-h-ya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
